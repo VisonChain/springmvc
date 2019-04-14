@@ -31,4 +31,5 @@ public class UserController {
         model.addAttribute("user",list);
         return "user";
     }
+
 }

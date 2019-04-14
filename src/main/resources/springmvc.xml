@@ -22,9 +22,6 @@
         <property name="suffix" value=".jsp"/>
     </bean>
 
-    <bean class="com.vs.controller.HelloController" id="/helloController">
-
-    </bean>
 
 
 
